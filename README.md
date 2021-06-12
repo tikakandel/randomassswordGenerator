@@ -3,9 +3,11 @@ This application will allow you generated random Password
 
 # To access Please go to following link
 
+https://tikakandel.github.io/randomassswordGenerator/
 
-
+# Compatible with most of the browser 
     
+    Best performs with curent versions of the browser. Eg: Google Chrome, FireFox, Edge, Safari..
     
 # Default  Setting 
   It Provide 10 charecter long password with all the complexicity ( Upper Case, Lower Case, Number and Symbol) 
